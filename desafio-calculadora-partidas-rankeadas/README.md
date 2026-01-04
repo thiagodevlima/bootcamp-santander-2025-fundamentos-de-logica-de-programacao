@@ -31,4 +31,4 @@ Com base na quantidade de vitórias, o jogador será classificado em um nível c
 
 Ao final, deve ser exibida a seguinte mensagem:
 
-`O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}`
+`O Herói tem saldo de ${saldoVitorias} vitórias e está no nível ${nivelHeroi}.`
